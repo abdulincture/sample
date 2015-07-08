@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 checking for tomorrow class
 
-is working
+is working andchecking for remote
+=======
+checking for tomorrow class
+>>>>>>> 8c2f193a72051c2c9aa3b083c55b8594c47475a7
